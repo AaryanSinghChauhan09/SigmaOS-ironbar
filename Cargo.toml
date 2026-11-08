@@ -1,0 +1,12 @@
+[package]
+name = "sigmaos_ironbar"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "SigmaOS ironbar component inspired by Linux Mint / Omarchy / Arch Linux."
+
+[dependencies]
+
+[lib]
+name = "sigmaos_ironbar"
+path = "src/lib.rs"
