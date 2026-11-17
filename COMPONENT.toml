@@ -3,7 +3,7 @@ name = "SigmaOS-ironbar"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "ironbar component"
+description = "SigmaOS SigmaOS-ironbar component"
 upstream = []
 
 [contract]
